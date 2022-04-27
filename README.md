@@ -1,0 +1,1 @@
+Basic Discord bot set up using discord.js
